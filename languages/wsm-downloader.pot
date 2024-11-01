@@ -1,0 +1,667 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WSM Downloader\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-10 16:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3"
+
+#: include/functions.php:517
+msgid " byte"
+msgstr ""
+
+#: include/functions.php:513
+msgid " bytes"
+msgstr ""
+
+#: include/functions.php:501
+msgid " GB"
+msgstr ""
+
+#: include/functions.php:509
+msgid " KB"
+msgstr ""
+
+#: include/functions.php:505
+msgid " MB"
+msgstr ""
+
+#: include/admin/setting.php:1001
+msgid "Active / Deactive Downloaders : "
+msgstr ""
+
+#: include/functions.php:85 include/functions.php:109 include/functions.php:131
+#: include/functions.php:153 include/functions.php:177
+msgid "Add To WP Media"
+msgstr ""
+
+#: include/admin/setting.php:175
+msgid "Ads content 1 : "
+msgstr ""
+
+#: include/admin/setting.php:194
+msgid "Ads content 2 : "
+msgstr ""
+
+#: include/admin/setting.php:78
+msgid "Allow users to share download results?"
+msgstr ""
+
+#: include/admin/setting.php:344
+msgid "Animation type : "
+msgstr ""
+
+#: include/functions.php:119 include/user.php:271
+msgid "Audios"
+msgstr ""
+
+#: include/admin/setting.php:296 include/admin/setting.php:501
+#: include/admin/setting.php:592 include/admin/setting.php:769
+#: include/admin/setting.php:836 include/admin/setting.php:905
+msgid "Background Color : "
+msgstr ""
+
+#: include/admin/setting.php:627
+msgid "Border (Form Button) : "
+msgstr ""
+
+#: include/admin/setting.php:856
+msgid "Border (Table body) : "
+msgstr ""
+
+#: include/admin/setting.php:787
+msgid "Border (Table Header) : "
+msgstr ""
+
+#: include/admin/setting.php:542
+msgid "Border (URL input) : "
+msgstr ""
+
+#: include/admin/setting.php:306
+msgid "Border : "
+msgstr ""
+
+#: include/admin/setting.php:316 include/admin/setting.php:552
+#: include/admin/setting.php:638 include/admin/setting.php:729
+#: include/admin/setting.php:798 include/admin/setting.php:867
+#: include/admin/setting.php:923
+msgid "Border Color : "
+msgstr ""
+
+#: include/admin/setting.php:335 include/admin/setting.php:571
+#: include/admin/setting.php:657 include/admin/setting.php:748
+#: include/admin/setting.php:942
+msgid "Border Radius : "
+msgstr ""
+
+#: include/admin/setting.php:321 include/admin/setting.php:557
+#: include/admin/setting.php:643 include/admin/setting.php:734
+#: include/admin/setting.php:803 include/admin/setting.php:872
+#: include/admin/setting.php:928
+msgid "Border Style : "
+msgstr ""
+
+#: include/admin/setting.php:311 include/admin/setting.php:547
+#: include/admin/setting.php:633 include/admin/setting.php:724
+#: include/admin/setting.php:793 include/admin/setting.php:862
+#: include/admin/setting.php:918
+msgid "Border Width : "
+msgstr ""
+
+#: include/admin/setting.php:617
+msgid "Button height (Mobile): "
+msgstr ""
+
+#: include/admin/setting.php:614
+msgid "Button height : "
+msgstr ""
+
+#: include/admin/setting.php:609
+msgid "Button width (Mobile): "
+msgstr ""
+
+#: include/admin/setting.php:606
+msgid "Button width : "
+msgstr ""
+
+#: include/functions.php:32
+msgid "Cant detect site or file name from url!"
+msgstr ""
+
+#: include/admin/setting.php:148
+msgid "Change Loading"
+msgstr ""
+
+#: wsm_downloader.php:103
+msgid "Choose"
+msgstr ""
+
+#: include/admin/setting.php:141
+msgid ""
+"choose a loading image.if you do not choose an image then default loading "
+"image will be used.This image will be displayed after clicking on the "
+"'download form' button."
+msgstr ""
+
+#: include/admin/setting.php:225
+msgid "Choose a template or choose custom template to create your own styles"
+msgstr ""
+
+#: include/admin/setting.php:88
+msgid "Choose Share buttons : "
+msgstr ""
+
+#: include/admin/setting.php:286
+msgid "Colors : "
+msgstr ""
+
+#: include/admin/setting.php:291
+msgid "Content Font Color : "
+msgstr ""
+
+#: include/admin/setting.php:40
+msgid ""
+"Copy and paste this shortcode directly into the page, post or widget where "
+"you'd like 'download form' to show up"
+msgstr ""
+
+#: include/admin/setting.php:971
+msgid "CSS Code Editor"
+msgstr ""
+
+#: include/admin/setting.php:251
+msgid "Custom Color : "
+msgstr ""
+
+#: include/admin/setting.php:964
+msgid "Custom Styles"
+msgstr ""
+
+#: include/admin/setting.php:244
+msgid "Custom Template"
+msgstr ""
+
+#: include/admin/setting.php:240
+msgid "Dark + Custom Color"
+msgstr ""
+
+#: include/admin/setting.php:238
+msgid "Dark Blue"
+msgstr ""
+
+#: include/admin/setting.php:239
+msgid "Dark Red"
+msgstr ""
+
+#: include/admin/setting.php:478
+msgid "Desktop (width > 760px) : "
+msgstr ""
+
+#: include/functions.php:165 include/user.php:379
+msgid "Documents"
+msgstr ""
+
+#: wsm_downloader.php:71 include/functions.php:77 include/functions.php:101
+#: include/functions.php:123 include/functions.php:145
+#: include/functions.php:169 include/user.php:174 include/user.php:195
+#: include/user.php:226 include/user.php:248 include/user.php:277
+#: include/user.php:303 include/user.php:332 include/user.php:354
+#: include/user.php:385 include/user.php:409
+msgid "Download"
+msgstr ""
+
+#: include/admin/setting.php:128
+msgid "Download form's button icon"
+msgstr ""
+
+#: include/admin/setting.php:120
+msgid "Download form's button text"
+msgstr ""
+
+#: include/admin/setting.php:894
+msgid "Download links (Table body) : "
+msgstr ""
+
+#: include/admin/setting.php:158
+msgid ""
+"Download links with no size will not be shown up to user By default, enable "
+"this option to show all size even 0!"
+msgstr ""
+
+#. Description of the plugin
+msgid "Download Video , Audio And images from social networks"
+msgstr ""
+
+#: wsm_downloader.php:57
+msgid "Downloader Setting"
+msgstr ""
+
+#: include/admin/setting.php:996
+msgid "Downloaders"
+msgstr ""
+
+#: include/admin/setting.php:1084
+msgid "Enter your IPs in this field, each on a separate line."
+msgstr ""
+
+#: include/admin/setting.php:91
+msgid "Facebook"
+msgstr ""
+
+#: include/functions.php:76 include/functions.php:100 include/functions.php:122
+#: include/functions.php:144 include/functions.php:168
+msgid "File Size"
+msgstr ""
+
+#: include/functions.php:75 include/functions.php:99 include/functions.php:121
+#: include/functions.php:143 include/functions.php:167
+msgid "File type"
+msgstr ""
+
+#: include/admin/setting.php:686
+msgid "Font Color : "
+msgstr ""
+
+#: include/admin/setting.php:496 include/admin/setting.php:587
+#: include/admin/setting.php:764 include/admin/setting.php:831
+#: include/admin/setting.php:900
+msgid "font Color : "
+msgstr ""
+
+#: include/admin/setting.php:777
+msgid "Font Size (Mobile) : "
+msgstr ""
+
+#: include/admin/setting.php:514 include/admin/setting.php:600
+#: include/admin/setting.php:694 include/admin/setting.php:844
+#: include/admin/setting.php:913
+msgid "Font Size (Mobile): "
+msgstr ""
+
+#: include/admin/setting.php:511 include/admin/setting.php:597
+#: include/admin/setting.php:691 include/admin/setting.php:774
+#: include/admin/setting.php:841 include/admin/setting.php:910
+msgid "Font Size : "
+msgstr ""
+
+#: include/admin/setting.php:473
+msgid "Form Width : "
+msgstr ""
+
+#: include/user.php:171 include/user.php:223 include/user.php:274
+#: include/user.php:329 include/user.php:382
+msgid "Format"
+msgstr ""
+
+#: include/admin/setting.php:719
+msgid "Height (Mobile) : "
+msgstr ""
+
+#: include/admin/setting.php:716
+msgid "Height : "
+msgstr ""
+
+#: include/admin/setting.php:345
+msgid "How the modal window should be appeared."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://t.me/ttmga"
+msgstr ""
+
+#: include/admin/setting.php:68
+msgid ""
+"If this option is enabled download will be started automatically after user "
+"paste link in download form."
+msgstr ""
+
+#: include/admin/setting.php:58
+msgid ""
+"If this option is enabled the name of the active downloaders will be "
+"animated in the URL field.Otherwise 'paste linke here' will be displayed."
+msgstr ""
+
+#: include/admin/setting.php:79
+msgid ""
+"If this option is enabled user can share download results on social networks"
+msgstr ""
+
+#: include/admin/setting.php:167
+msgid ""
+"If this setting is enabled the download results will be displayed to users "
+"in a modal window. This feature allows you to show some ads in this section. "
+"Otherwise the download results will be displayed below the input field."
+msgstr ""
+
+#: include/admin/setting.php:531
+msgid "Input height (Mobile): "
+msgstr ""
+
+#: include/admin/setting.php:528
+msgid "Input height : "
+msgstr ""
+
+#: include/admin/setting.php:523
+msgid "Input width (Mobile): "
+msgstr ""
+
+#: include/admin/setting.php:520
+msgid "Input width : "
+msgstr ""
+
+#: include/admin/setting.php:1082
+msgid "IPs List:"
+msgstr ""
+
+#: include/admin/setting.php:243
+msgid "Light + Custom Color"
+msgstr ""
+
+#: include/admin/setting.php:241
+msgid "Light Blue"
+msgstr ""
+
+#: include/admin/setting.php:242
+msgid "Light Red"
+msgstr ""
+
+#: include/admin/setting.php:106
+msgid "Linkedin"
+msgstr ""
+
+#: wsm_downloader.php:102
+msgid "Loading image"
+msgstr ""
+
+#: include/admin/setting.php:140
+msgid "Loading image (gif format)"
+msgstr ""
+
+#: include/admin/setting.php:481
+msgid "Mobile (width < 760px) : "
+msgstr ""
+
+#: include/admin/setting.php:1070
+msgid "Multiple IPs"
+msgstr ""
+
+#: include/functions.php:141 include/user.php:326
+msgid "Mute version"
+msgstr ""
+
+#: include/functions.php:521
+msgid "NaN"
+msgstr ""
+
+#: include/shortcode.php:13 include/shortcode.php:76
+msgid "Paste link here"
+msgstr ""
+
+#: wsm_downloader.php:70
+msgid "Paste URL Here"
+msgstr ""
+
+#: include/functions.php:97 include/user.php:220
+msgid "Photos"
+msgstr ""
+
+#: include/admin/setting.php:103
+msgid "Pinterest"
+msgstr ""
+
+#: include/admin/setting.php:506
+msgid "Placeholder Color : "
+msgstr ""
+
+#: include/shortcode.php:31
+msgid ""
+"Please insert a valid url! A valid url should start with http:// or https://"
+msgstr ""
+
+#: wsm_downloader.php:74
+msgid "Please insert link"
+msgstr ""
+
+#: include/shortcode.php:57 include/shortcode.php:65
+msgid "Preparing download links ..."
+msgstr ""
+
+#: include/admin/setting.php:1057
+msgid "Proxy Authentication : "
+msgstr ""
+
+#: include/admin/setting.php:1033
+msgid "Proxy Configuration : "
+msgstr ""
+
+#: include/admin/setting.php:1037
+msgid "Proxy IP : "
+msgstr ""
+
+#: include/admin/setting.php:1041
+msgid "Proxy Port : "
+msgstr ""
+
+#: include/admin/setting.php:1020
+msgid "Proxy Settings"
+msgstr ""
+
+#: include/admin/setting.php:1046
+msgid "Proxy Type : "
+msgstr ""
+
+#: include/admin/setting.php:129
+msgid ""
+"put your favorite icon here.you can use standard emojies or if your template "
+"supports fontawesome icons ,you can use it by putting fontawesome icon as "
+"html format ; like : <i class=&quot;fa fa-cloud-download&quot;></i>.also you "
+"can use material icons , themify icons and etc if your template supports "
+"these icons but dont forget to add your icon in html format."
+msgstr ""
+
+#: include/user.php:172 include/user.php:224 include/user.php:275
+#: include/user.php:330 include/user.php:383
+msgid "Quality"
+msgstr ""
+
+#. Author of the plugin
+msgid "S.J.Hossseini"
+msgstr ""
+
+#: wsm_downloader.php:41
+msgid "Setting"
+msgstr ""
+
+#: include/admin/setting.php:19
+msgid "Settings"
+msgstr ""
+
+#: include/user.php:123
+msgid "Share On : "
+msgstr ""
+
+#: include/admin/setting.php:17
+msgid "Shortcode"
+msgstr ""
+
+#: include/admin/setting.php:46
+msgid "Shortcode Configuration"
+msgstr ""
+
+#: include/admin/setting.php:224
+msgid "Shortcode Template"
+msgstr ""
+
+#: include/admin/setting.php:57
+msgid "Show active downloaders name in url field?"
+msgstr ""
+
+#: include/admin/setting.php:157
+msgid "Show download links with no size?"
+msgstr ""
+
+#: include/admin/setting.php:166
+msgid "Show download results in Modal window?"
+msgstr ""
+
+#: include/admin/setting.php:1021
+msgid ""
+"Sites like YouTube sometimes restrict access to certain videos to a specific "
+"country. By setting up a proxy, you can bypass this restriction.When the "
+"user tries to download a file , WSMD first downloads the file without proxy "
+"then starts downloading using proxy if it fails."
+msgstr ""
+
+#: include/user.php:173 include/user.php:225 include/user.php:276
+#: include/user.php:331 include/user.php:384
+msgid "Size"
+msgstr ""
+
+#: include/admin/setting.php:582
+msgid "Size & Colors (Form Button) : "
+msgstr ""
+
+#: include/admin/setting.php:825
+msgid "Size & Colors (Table body) : "
+msgstr ""
+
+#: include/admin/setting.php:758
+msgid "Size & Colors (Table Header) : "
+msgstr ""
+
+#: include/admin/setting.php:491
+msgid "Size & Colors (URL input) : "
+msgstr ""
+
+#: include/user.php:56 include/user.php:71
+#, php-format
+msgid "Sorry , downloading from \" %1$s \" is not supported by our downloader!"
+msgstr ""
+
+#: include/functions.php:205
+msgid "Sorry , We cant Download this video!"
+msgstr ""
+
+#: include/user.php:449
+msgid "Sorry , We cant extract any download link from this url!"
+msgstr ""
+
+#: include/shortcode.php:42
+msgid "Start"
+msgstr ""
+
+#: include/admin/setting.php:67
+msgid "Start Download on Paste?"
+msgstr ""
+
+#: include/admin/setting.php:18
+msgid "Styles"
+msgstr ""
+
+#: include/admin/setting.php:466
+msgid "Styles (Download form)"
+msgstr ""
+
+#: include/admin/setting.php:280
+msgid "Styles (Modal window)"
+msgstr ""
+
+#: include/admin/setting.php:674
+msgid "Styles (Results table)"
+msgstr ""
+
+#: include/admin/setting.php:94
+msgid "Telegram"
+msgstr ""
+
+#: include/admin/setting.php:231
+msgid "Template : "
+msgstr ""
+
+#: include/admin/setting.php:195
+msgid "This ads will be shown after download results"
+msgstr ""
+
+#: include/admin/setting.php:176
+msgid "This ads will be shown before download results"
+msgstr ""
+
+#: include/admin/setting.php:703
+msgid "Thumbnail style : "
+msgstr ""
+
+#: include/admin/setting.php:681
+msgid "Title Style : "
+msgstr ""
+
+#: include/admin/setting.php:100
+msgid "Twitter"
+msgstr ""
+
+#: wsm_downloader.php:73
+msgid "Use Multiple Ip"
+msgstr ""
+
+#: include/admin/setting.php:1077
+msgid "Use Multiple IPs?"
+msgstr ""
+
+#: wsm_downloader.php:72
+msgid "Use Proxy"
+msgstr ""
+
+#: include/admin/setting.php:1028
+msgid "Use Proxy?"
+msgstr ""
+
+#: include/functions.php:73 include/user.php:168
+msgid "Videos"
+msgstr ""
+
+#: include/admin/setting.php:97
+msgid "Whatsapp"
+msgstr ""
+
+#: include/admin/setting.php:711
+msgid "width (Mobile) : "
+msgstr ""
+
+#: include/admin/setting.php:708
+msgid "width : "
+msgstr ""
+
+#. Name of the plugin
+#: wsm_downloader.php:57 wsm_downloader.php:75
+msgid "WSM Downloader"
+msgstr ""
+
+#: include/admin/setting.php:60 include/admin/setting.php:70
+#: include/admin/setting.php:84 include/admin/setting.php:160
+#: include/admin/setting.php:169 include/admin/setting.php:1029
+#: include/admin/setting.php:1078
+msgid "Yes"
+msgstr ""
+
+#: include/admin/setting.php:1071
+msgid ""
+"You can enable this option if you are having problems with Dailymotion,"
+"Youtube,... IP limit / IP ban. This option will work only if the IP you add "
+"are available for the server.That means you have to buy some additionnal "
+"public IPs and assign these new static IPs to the server.This should work "
+"only if you have a dedicated server...Be very careful, you may block yourself"
+msgstr ""
+
+#: include/admin/setting.php:996
+msgid ""
+"Your Site visitors are only allowed to download medias from websites that "
+"are activated in this section.Choose which downloader should be enabled."
+msgstr ""
